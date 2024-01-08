@@ -1,0 +1,11 @@
+[Installation]
+Download your purchased content from https://keymaster.fivem.net
+Drag and Drop the downloaded folder from keymaster to your FiveM resource folder (do not rename the folder!).
+
+[Keymaster]
+Add the Key from keymaster to your cfg file.
+If you are not the server owner, you can transfer the key. notice! You can transfer ownership of assets only once on keymaster!
+
+[Common Errors]
+You lack the required entitlement to use <resource>
+Try restarting your server and make sure your server license key is correct.
